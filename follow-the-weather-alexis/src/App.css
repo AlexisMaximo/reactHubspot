@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+.place-nav {
+  border-bottom:4px solid red;
+}
+.weather-content {
+
+}
+.place-nav h2{
+  display:inline-block;
+  margin:0;
+  padding:15px 20px;
+}
