@@ -13,11 +13,11 @@ const App = React.createClass ({
     }
   },
 
-  onPlaceClick(text) {
-    console.log(text);
+  onPlaceClick(value) {
+    console.log(this);
 
     this.setState({
-      selectedPlace: text
+      selectedPlace: value
     })
   },
   render() {
